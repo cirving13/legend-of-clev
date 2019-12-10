@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{24AC81E1-7958-467B-C940-A04234A3DF92}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/game_over.cs">
+    <Files>
+      <File FileName="Assets/Scripts/pause.cs" Line="38" Column="2" />
+      <File FileName="Assets/Scripts/main.cs" Line="17" Column="32" />
+      <File FileName="Assets/Scripts/game_over.cs" Line="32" Column="6" />
+      <File FileName="Assets/Scripts/dungeon_generator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/end_game_thing.cs" Line="20" Column="2" />
+      <File FileName="Assets/Scripts/the_end.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="clev" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="game_over.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa20b3f7-ea6b-46c3-a563-4485f8f718eb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
